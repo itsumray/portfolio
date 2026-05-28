@@ -1,4 +1,4 @@
 # portfolio
 Portfolio
 
-https://itsumray.github.io/portfolio2/
+https://itsumray.github.io/portfolio/
